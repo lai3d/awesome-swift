@@ -522,7 +522,7 @@
 		"title": "Swift-Best-Practices",
 		"category": "style-guides",
 		"description": "Best practices for software development with Swift.",
-		"homepage": "https://github.com/schwa/Swift-Community-Best-Practices/"
+		"homepage": "https://github.com/schwa/Swift-Community-Best-Practices"
 	}, {
 		"title": "SwiftBoilerplate",
 		"category": "boilerplates",
@@ -1340,7 +1340,7 @@
 		"title": "jazzy",
 		"category": "documentation",
 		"description": "Soulful docs for Swift & Objective-C.",
-		"homepage": "https://github.com/realm/jazzy/"
+		"homepage": "https://github.com/realm/jazzy"
 	}, {
 		"title": "swiftdoc-parser",
 		"category": "documentation",
@@ -2111,8 +2111,8 @@
 	}, {
 		"title": "Siesta",
 		"category": "network",
-		"description": "egant abstraction for REST APIs that untangles stateful messes. An alternative to callback- and delegate-based networking.",
-		"homepage": "https://bustoutsolutions.github.io/siesta/"
+		"description": "iOS REST Client Framework.",
+		"homepage": "https://github.com/bustoutsolutions/siesta"
 	}, {
 		"title": "Stargate",
 		"category": "network",
@@ -2432,7 +2432,7 @@
 		"title": "SystemKit",
 		"category": "system",
 		"description": "OS X system library in Swift.",
-		"homepage": "https://github.com/beltex/SystemKit/"
+		"homepage": "https://github.com/beltex/SystemKit"
 	}, {
 		"title": "Buildasaur",
 		"category": "testing",
@@ -3572,7 +3572,7 @@
 		"title": "Prototope",
 		"category": "utility",
 		"description": "Swift library of lightweight interfaces for prototyping, bridged to JS.",
-		"homepage": "http://khan.github.io/Prototope/"
+		"homepage": "https://github.com/Khan/Prototope"
 	}, {
 		"title": "Pythonic.swift",
 		"category": "utility",
@@ -3587,7 +3587,7 @@
 		"title": "RandomKit",
 		"category": "utility",
 		"description": "Random data generation in Swift.",
-		"homepage": "https://github.com/nvzqz/RandomKit/"
+		"homepage": "https://github.com/nvzqz/RandomKit"
 	}, {
 		"title": "ReactiveArray",
 		"category": "utility",
